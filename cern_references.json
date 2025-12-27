@@ -1,0 +1,12 @@
+{
+  "0340_lhc_verification": {
+    "prediction": "√s = 884 GeV (φ_mid=0.1325)",
+    "check_window": [800, 1000],
+    "cern_datasets": [
+      "CMS 0.9 TeV diffractive: https://opendata.cern.ch/search?page=1&size=20&q=CMS+0.9TeV+diffractive",
+      "ATLAS 900 GeV elastic: https://opendata.cern.ch/search?page=1&size=20&q=ATLAS+900+GeV",
+      "TOTEM diffraction: https://opendata.cern.ch/search?page=1&size=20&q=TOTEM+diffractive"
+    ],
+    "expected_signature": "dip in dσ/dt or inelastic cross-section"
+  }
+}
