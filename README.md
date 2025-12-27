@@ -1,8 +1,4 @@
-# 0340-lhc-verification 
-
-**Law 0340 predicts diffractive suppression in pp scattering at √s=884 GeV**  
-*(φ_mid=0.1325 × E_Planck scaling)*[file:5]
-
-[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.18061271.svg)](https://doi.org/10.5281/zenodo.18061271)
-
-## **0340 LHC Prediction**
+DOI: 10.5281/zenodo.18070812
+GitHub: https://github.com/pvt4me/0340-lhc-verification
+Falsifiability: TOTEM/CMS xsec < 20 pb/GeV² @ 884 GeV
+Peak: -154.16 pb @ 890.7 GeV (byte=34 FORBIDDEN)
